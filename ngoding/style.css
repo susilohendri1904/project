@@ -1,0 +1,16 @@
+body{
+	min-height: 2000px;
+}
+
+
+
+.jumbotron {
+	padding-top:2rem ;
+	background: linear-gradient(to right, #000046, #1cb5e0);   
+	color:#fff;
+}
+
+
+#projects {
+	background: #a2d9ff;
+}
